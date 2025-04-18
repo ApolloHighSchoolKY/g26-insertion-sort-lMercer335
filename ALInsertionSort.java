@@ -10,6 +10,7 @@ public class ALInsertionSort
     	boolean inserted=false;
 
 		//Add the first number to the array list
+		
 
 		//Loop once for all of the remaining numbers in the unsorted list
 
